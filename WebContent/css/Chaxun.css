@@ -1,0 +1,52 @@
+#chaxun_geshi{
+	margin: auto auto;
+	height: 310px;
+}
+#chaxun_geshi ul{
+	list-style: none;
+}
+#chaxun_geshi ul li{
+	padding: 15px;
+	font-size: 15px;
+}
+#chaxun_body{
+	background-color: white;
+	background-image: url("../images/lan.png");	
+	background-repeat: no-repeat;
+	background-position: 330px 70px;
+}
+#chaxun_battom{
+	width: 90%;
+	height: 50px;
+	padding-top: 30px;
+	font-size: 14px;
+	padding-left: 20px;
+}
+#chaxun_battom2{
+	width: 90%;
+	height: 50px;
+	padding-top: 30px;
+	font-size: 14px;
+	padding-left: 20px;
+}
+#chaxun_1,#chaxun_2{
+	padding-left:150px;
+	color: rgb(153,153,153);
+}
+#chaxun_dian{
+	padding-left: 42px;
+}
+#chaxun_kan{
+	padding-left: 57px;
+}
+#chaxun_dian a{
+	text-decoration: none;
+	color: rgb(0,136,204);
+}
+#chaxun_dian a:HOVER{
+	text-decoration: underline;
+}
+#chaxun_kan a{
+	text-decoration: none;
+	color: rgb(0,136,204);
+}

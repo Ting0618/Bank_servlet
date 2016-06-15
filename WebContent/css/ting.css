@@ -1,0 +1,384 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+body{
+	background-color:rgb(240,240,240) ;
+}
+
+#Credit_body{
+	height: auto;
+	width: 900px;
+	margin-left: auto;
+	margin-right: auto;
+	/* border:1px solid red;  */
+	background-color: white;
+}
+.navw{
+	width: 3px;
+	height: 100%;
+	float: left;
+	background-color: rgb(240,240,240);
+}
+.navw2{
+	height: 10px;
+	width: 100%;
+	background-color: rgb(240,240,240);
+}
+#Credit_title{
+	height: 100px;
+	width: 100%;
+	font-size: 35px;
+	text-align:center;
+	/* border:1px solid black; */
+	background-image: url("../images/huang.jpg");	
+	padding-top: 60px;
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+	border-top-right-radius: 10px;
+	border-top-left-radius: 10px;
+	
+}
+#Credit_main{
+	width:100%;
+	height:180px;
+	margin-left: auto;
+	margin-right: auto;
+	/* border:1px solid black; */
+}
+#Credit_serve{
+	border:1px solid;
+	font-size: 30px;
+	height: 18%;
+}
+#Credit_register{
+	width: 38%;
+}
+#Credit_left {
+	width: 25%;
+	height:100%;
+	float: left;
+	border-bottom-left-radius: 10px;
+}
+#Credit_left ul li{
+	font-size: 15px;
+	list-style: none;
+	margin-left: 0px;
+	padding-left: 10px;
+	padding-top: 5px;
+}
+#Credit_left ul li a{
+	text-decoration: none;
+	color: rgb(83,83,83);
+	font-size: 15px;
+}
+#Credit_left ul li a:HOVER{
+	color: rgb(255,102,51);
+}
+#Credit_log{
+	width: 51%;
+	height:100%;
+	float: left;
+}
+#Credit_right{
+	width: 23%;
+	height:100%;
+	float: left;
+	
+}
+#Credit_right ul li{
+	font-size: 15px;
+	list-style: none;
+	margin-left: 0px;
+	padding-left: 10px;
+	padding-top: 5px;
+}
+#Credit_right ul li a{
+	text-decoration: none;
+	color: rgb(83,83,83);
+	font-size: 15px;
+}
+#Credit_right ul li a:HOVER{
+	color: rgb(255,102,51);
+}
+#Credit_end{
+	width:100%;
+	height:240px;
+	margin-left: auto;
+	margin-right: auto;
+	/* border:1px solid blue; */
+}
+#Credit_func{
+	width: 24%;
+	height:100%;
+	float: left;
+}
+#Credit_func ul li{
+	font-size: 15px;
+	list-style: none;
+}
+#func_li{
+	background-image: url("../images/vsa.png");
+	background-repeat: no-repeat;
+	width: 200px;
+	height: 100px;
+}
+#func_lili a{
+	color:rgb(255,130,75);
+	text-decoration: none;
+	padding-left: 20px;
+}
+#func_lili a:HOVER{
+	color: rgb(255,102,51);
+	text-decoration: underline;
+}
+#Credit_func1{
+	width: 22%;
+	height:100%;
+	float: left;
+}
+#func1_li{
+	background-image: url("../images/huang2.png");
+	background-repeat: no-repeat;
+	width: 200px;
+	height: 100px;
+}
+#Credit_func1 ul{
+	padding-left: 10px;
+}
+#Credit_func1 ul li{
+	font-size: 15px;
+	list-style: none;
+
+	
+}
+#func1_lili a{
+	color:rgb(255,130,75);
+	text-decoration: none;
+	padding-left: 25px;
+}
+#func1_lili a:HOVER{
+	color: rgb(255,102,51);
+	text-decoration: underline;
+}
+#Credit_rejister{
+	float: left;
+	width: 50%;
+	height:100%;
+}
+#Credit_rejister ul li{
+	font-size: 15px;
+	list-style: none;
+	margin-top: 3px;
+	margin-left: 4px;
+}
+#f_span{
+	font-size: 20px;
+	color: rgb(72,118,255); 
+	margin-top: 3px;
+	margin-left: 4px;
+}
+#show_name{
+	width: 220px;
+	height: 20px;
+	float: right;
+	font-size: 13px;
+	color: rgb(255,106,105);
+	padding-top: 3px;
+}
+#show_pass{
+	width: 220px;
+	height: 20px;
+	float: right;
+	margin-top: -38px;
+	padding-top: 3px;
+	font-size: 13px;
+	color: rgb(255,106,105);
+}
+#log_last{
+	width: 100%;
+	height: 225px;
+}
+#last_left{
+	width: 24%;
+	height: 220px;
+	float: left;
+}
+#last_center{
+	width: 50%;
+	height: 220px;
+	float: left;
+	background-image: url("../images/tu.png");
+	background-repeat: no-repeat;
+}
+#last_right{
+	width: 22%;
+	height: 220px;
+	float: left;
+}
+
+#kaishi{
+	width: 100%;
+	height: 170px;
+}
+/*
+	Registe.jsp---------------------------------------------------------------------
+*/
+
+#Registe_tip{
+	height: 50px;
+	width: 100%;
+	background-image: url("../images/tianxie.jpg");
+	background-repeat: no-repeat;
+	background-position:15px 15px;
+	background-color: rgb(240,240,240);
+}
+#zy{
+	float:right;
+	height: 50px;
+}
+#zy a{
+   text-decoration: none;
+   text-align: center;
+   line-height: 50px;
+   margin-right: 10px;
+}
+#Registe_table span{
+	font-size: 15px;
+	font-family: 正楷;
+}
+#Registe_table td{
+	padding: 13px;
+}
+#Registe_show{
+	width: 500px;
+	height: 100px;
+	border:1px solid blue;
+}
+.showshow{
+	color: rgb(214,121,161);
+	font-size: 13px;
+}
+/*
+	footing-------------------------------------------------------------------
+*/
+
+#f_b_2{
+	width: 900px;
+	margin: auto auto;
+}
+#f_b_2 li{
+	float: left;
+	padding: 0px 6px;
+	border-left: 1px solid rgb(102,102,102);
+	font-size: 13px;
+	color: rgb(102,102,102);
+}
+#f_b_2 .ts{
+	border: 0px;
+}
+#f_b_2 li a{
+	text-decoration: none;
+}
+#f_b_2 li a:HOVER {
+	color: rgb(228,57,60);
+	text-decoration: underline;
+} 
+#f_b_3{
+	width: 805px;
+	margin: auto auto;
+}
+#f_b_3 li{
+	float: left;
+	padding: 0px 6px;
+	border-left: 1px solid rgb(102,102,102);
+	font-size: 13px;
+	color: rgb(102,102,102);
+}
+#f_b_3 .ts{
+	border: 0px;
+}
+#f_b_3 li a{
+	text-decoration: none;
+}
+#f_b_3 li a:HOVER {
+	color: rgb(228,57,60);
+	text-decoration: underline;
+} 
+#f_b_4{
+	width: 805px;
+	margin: auto auto;
+}
+#f_b_4 li{
+	float: left;
+	padding: 0px 6px;
+	font-size: 13px;
+	color: rgb(102,102,102);
+}
+#f_b_4 li a{
+	text-decoration: none;
+}
+#f_b_4 li a:HOVER {
+	color: rgb(228,57,60);
+	text-decoration: underline;
+} 
+#f_b_5{
+	width: 250px;
+	margin: auto auto;
+}
+#f_b_5 li{
+	float: left;
+	padding: 0px 3px;
+	font-size: 13px;
+	color: rgb(102,102,102);
+}
+#f_b_5 li a{
+	text-decoration: none;
+}
+#f_b_5 li a:HOVER {
+	color: rgb(228,57,60);
+	text-decoration: underline;
+} 
+#f_b_6{
+	margin: 0px;
+	padding: 0px;
+	width: 490px;
+	height: 100px;
+	margin: 0px 170px;
+
+}
+.f_b{
+	float: left;
+    padding: 12px 2px;
+}
+
+/* 大标题部分 */
+#bank{
+	height: 90px;
+	width: 100%;
+	background: url("../images/bank.png") no-repeat;	
+	padding-top: 60px;
+	border-top-left-radius: 6px;
+	border-top-right-radius: 6px;
+	border-bottom-right-radius: 6px;
+	border-bottom-left-radius: 6px;
+	border: 1px solid rgb(235,235,235);
+}
+#bank_begain span{
+	padding-right: 15px;
+	float: right;
+}
+#bank_page ul li{
+	float: left;
+	list-style: none;
+	padding: 35px;
+	padding-top: 23px;
+	font-weight: bold;
+}
+#bank_page ul li a{
+	text-decoration: none;
+	color: rgb(77,77,77);
+}
+#bank_page ul li a:HOVER {
+	color: rgb(167,30,50);
+}

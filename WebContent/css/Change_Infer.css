@@ -1,0 +1,74 @@
+#infer_title{
+	width: 100%;
+	height: 80px;
+}
+#infer_title div{
+	float: left;
+	width: 125px;
+	height: 80%;
+	padding-top: 50px;
+}
+#infer_title div a:HOVER{
+	color: rgb(71,168,239);
+}
+#infer_a1,#infer_a2,#infer_a3,#infer_a4,#infer_a5 {
+	text-decoration: none;
+	font-size: 15px;
+	color: rgb(255,106,105);
+	padding-left:30px;
+	padding-top: 40px;
+}
+#title_xiu{
+	background: url("../images/xiuxian.png") no-repeat 50px 0px;
+}
+#title_nv{
+	background: url("../images/nv.png") no-repeat 50px 10px;
+}
+#title_tong{
+	background: url("../images/tongxun.png") no-repeat 50px 0px;
+}
+#title_go{
+	background: url("../images/gouwu.png") no-repeat 50px 5px;
+}
+#title_shui{
+	background: url("../images/shui.png") no-repeat 50px 0px;
+}
+#infer{
+	margin-left: 150px;
+	margin-top: 20px;
+}
+#System_table td{
+	padding: 6px;
+}
+#but_change{
+	width: 65px;
+	height: 25px;
+	background-color: rgb(242,157,23);
+	border: 1px rgb(231,124,0);
+	color: white;
+	font-size: 20px;
+}
+#infer_endl,#infer_endr{
+	width: 49%;
+	height: 103px;;
+	padding-left: 5px;
+	padding-top:10px;
+	float: left;
+}
+#infer_endl,#infer_endr, li{
+	list-style: none;
+	padding: 2px;
+	font-size: 15px;
+	
+}
+#infer_endl,#infer_endr, li a{
+	text-decoration: none;
+	color: rgb(77,77,77); 
+}
+#infer_endl,#infer_endr, li a:HOVER {
+	color: rgb(255,102,51);
+}
+#alerttele{
+	font-size: 13px; 
+	color:rgb(241,121,117);
+}

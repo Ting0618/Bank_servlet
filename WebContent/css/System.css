@@ -1,0 +1,148 @@
+#bank{
+	height: 90px;
+	width: 100%;
+	background: url("../images/bank.png") no-repeat;	
+	padding-top: 60px;
+	border-top-left-radius: 6px;
+	border-top-right-radius: 6px;
+	border-bottom-right-radius: 6px;
+	border-bottom-left-radius: 6px;
+	border: 1px solid rgb(235,235,235);
+}
+#bank_begain span{
+	padding-right: 15px;
+	float: right;
+}
+#bank_page ul li{
+	float: left;
+	list-style: none;
+	padding: 35px;
+	padding-top: 23px;
+	font-weight: bold;
+}
+#bank_page ul li a{
+	text-decoration: none;
+	color: rgb(77,77,77);
+}
+#bank_page ul li a:HOVER {
+	color: rgb(167,30,50);
+}
+#Credit_body{
+	height: auto;
+	width: 900px;
+	margin-left: auto;
+	margin-right: auto;
+	/* border:1px solid red;  */
+	background-color: white;
+}
+*{
+	padding: 0px;
+	margin: 0px;
+}
+body{
+	background-color:rgb(240,240,240) ;
+}
+#System_title{
+	height: 80px;
+	width: 100%;
+	font-size: 35px;
+	background-image: url("../images/huang.jpg");	
+	padding-top: 20px;
+	border-top-left-radius: 5px;
+	border-top-right-radius: 5px;
+	border-bottom-right-radius: 7px;
+	border-bottom-left-radius: 7px;
+	border: 1px solid red;
+}
+#System_page{
+	width: 100%;
+	height: 40px;
+	border: 1px solid blue;
+}
+.System_main{
+	margin-top: 10px;
+	width:100%;
+}
+
+#System_main_l{
+	width: 25%;
+	height: 500px;
+	margin-top: 10px;
+	float: left;
+	background-color: rgb(235,235,235);
+}
+#bt1{
+	background-image:url('../images/gerenxinxi2.png');
+	background-repeat: no-repeat;
+	background-position: 15px 12px;	
+}
+#bt2{
+	background-image:url('../images/zhuanzhang.png');
+	background-repeat: no-repeat;
+	background-position: 15px 12px;
+}
+#bt3{
+	background-image:url('../images/mima.png');
+	background-repeat: no-repeat;
+	background-position: 15px 12px;
+}
+#bt4{
+	background-image:url('../images/cha.png');
+	background-repeat: no-repeat;
+	background-position: 15px 12px;
+}
+#bt5{
+	background-image:url('../images/gaixinxi.png');
+	background-repeat: no-repeat;
+	background-position: 15px 12px;
+}
+#System_main_r{
+	width: 74%;
+	height: 500px;
+	margin-top: 10px;
+	float: left;
+}
+.b{
+	width: 100%;
+	height: 50px;
+	border: none;
+	outline: none;
+	font-size: 14px;
+	background-color: rgb(235,235,235);
+	text-align:left;
+	padding-left: 46px;
+}
+#System_begain{
+	width: 100%;
+	height: 30px;
+	padding-top: 25px;
+	
+}
+#System_span{
+	font-size: 20px;
+	font-weight: bold;
+}
+#frame_1{
+	width: 100%;
+	height: 100%;
+	border: none;
+}
+#first{
+	width: 100%;
+	height: 100px;
+	padding-left: 20px;
+}
+#user_name{
+	font-size: 25px;
+	font-weight: bold;
+}
+#user_tell{
+	font-size: 15px;
+	color: rgb(71,168,239);
+}
+#last{
+	height:400px;
+	width:100%;
+	background: url("../images/kun.png") no-repeat 30px 30px;;
+	
+}
